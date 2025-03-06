@@ -1,0 +1,1 @@
+print("Bye cruel world!")
